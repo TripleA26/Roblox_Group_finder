@@ -4,6 +4,6 @@
     "save": true,
     "scrapper": true,
     "timelapse": 8000,
-    "self_proxies": true
+    "self_proxies": false
 
 }
