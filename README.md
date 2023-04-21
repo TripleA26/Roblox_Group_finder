@@ -12,6 +12,17 @@ Webhook Support!
 <img src=https://cdn.discordapp.com/attachments/1092444093830926438/1095051705445515324/image.png>
 <br>
 <h2>
+Config Help:
+<h4>
+save         = Save the groups without owner (locked ones)
+webhook      = your webhook
+self_proxies = use the proxies in "proxies.txt" file (http/https)
+<h3>
+Scrapper:
+<h4>
+scrapper  = True (scrapper proxies) False (dont scrapper) is not that hard
+timelapse = Each time that it will scrappe proxies (put it in 5k, 4k aprox because it counts for update the title)
+<h2>
  If you need proxies:
  <h4>
  https://github.com/TripleA26/Proxy-Scrapper
