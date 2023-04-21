@@ -15,7 +15,9 @@ Webhook Support!
 Config Help:
 <h4>
 save         = Save the groups without owner (locked ones)
+<h4>
 webhook      = your webhook
+<h4>
 self_proxies = use the proxies in "proxies.txt" file (http/https)
 <h3>
 Scrapper:
