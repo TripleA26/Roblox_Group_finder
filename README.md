@@ -9,7 +9,7 @@ Just fork -> https://replit.com/@AHdgbaujkghdgba/Rblxgroup (remember to put your
 <h2>
 Webhook Support! 
 <h4>
-![My Remote Image](https://cdn.discordapp.com/attachments/1092444093830926438/1095051705445515324/image.png)
+<img src=https://cdn.discordapp.com/attachments/1092444093830926438/1095051705445515324/image.png>
 <br>
 <h2>
  If you need proxies:
