@@ -23,6 +23,7 @@ self_proxies = use the proxies in "proxies.txt" file (http/https)
 Scrapper:
 <h4>
 scrapper  = True (scrapper proxies) False (dont scrapper) is not that hard
+<h4>
 timelapse = Each time that it will scrappe proxies (put it in 5k, 4k aprox because it counts for update the title)
 <h2>
  If you need proxies:
