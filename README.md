@@ -5,6 +5,7 @@ Roblox group finder with proxy support, proxyless or with a proxy scrapper
 Replit support! 
 <h4>
 Just fork -> https://replit.com/@AHdgbaujkghdgba/Rblxgroup (remember to put your webhook with a secret) :)
+If you use scrapper in replit it will get banned!
 <br>
 <h2>
 Webhook Support! 
